@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Development<br><br>🌱 I’m currently learning Mern Tech Stack<br><br>👨‍💻 All of my projects are available at https://v03portfolio.netlify.app/<br><br>📫 How to reach me aceshapiz6@gmail.com
+🔭 I’m currently working on Full-Stack Development<br><br>🌱 I’m currently learning Asp.Net<br><br>👨‍💻 All of my projects are available at https://v03portfolio.netlify.app/<br><br>📫 How to reach me aceshapiz6@gmail.com
 
 
 ## 🌐 Socials:

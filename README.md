@@ -1,4 +1,4 @@
-Hi 👋 My name is Aces Hapiz
+Aces Hapiz
 ===========================
 
 Technical Business Analyst || Data Analyst
